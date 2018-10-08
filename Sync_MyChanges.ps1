@@ -2,6 +2,7 @@
     "Bluedog_DB" `
     ,"Bluedog_DB_Extras" `
     ,"PlayYourWay" `
+	,"SETIcontracts" `
     ,"SETIprobeParts" `
     ,"RSSVE" `
 	,"UnmannedBeforeManned"`
